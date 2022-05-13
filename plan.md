@@ -9,4 +9,8 @@ Configure reusable elements
     search bars
     icons
     logo
-    
+Search for relevant HTML tags
+Create image file to store all images & icons
+Use camel case for all naming conventions
+Create HTML skeleton text - comment each action on code page
+Start lionking to css elements

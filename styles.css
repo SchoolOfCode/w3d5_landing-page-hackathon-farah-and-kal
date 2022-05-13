@@ -1,17 +1,15 @@
-/* DaysOut */
+*root {
+    margin: 0;
+    padding:0;
+    /* list variables */
+    /* primary colour */
+    /* secondary colour */
+    /* header text */
+    /* content text */
+}
 
-position: absolute;
-left: 10.97%;
-right: 72.36%;
-top: -0.29%;
-bottom: 88.38%;
-
-font-family: 'Oleo Script Swash Caps';
-font-style: normal;
-font-weight: 400;
-font-size: 64px;
-line-height: 89px;
-
-color: #FF671C;
-
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+/* Configure reusable elements
+    buttons
+    search bars
+    icons
+    logo  */
